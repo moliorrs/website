@@ -23,12 +23,12 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src![rslogo3](https://user-images.githubusercontent.com/31002931/111659047-459a5400-87e3-11eb-8236-69fc51218180.png)
-)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+[Link](url) and ![Image](src![rslogo3](https://user-images.githubusercontent.com/31002931/111659047-459a5400-87e3-11eb-8236-69fc51218180.png)
+)
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/moliorrs/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
