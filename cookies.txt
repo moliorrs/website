@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+moliorrsteam.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1616084723|Y7qjsajFrvLw
+.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1616084723|Y7qjsajFrvLw
+moliorrsteam.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=42"
+.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	01f0e931317f18b7c67bbca68e6fab1ada47c8339799c28b0d9008f439844d8571e0ccdde56544d0069205e10adedec4591f3bdb3d
+moliorrsteam.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	none
+
